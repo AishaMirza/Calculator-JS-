@@ -6,35 +6,19 @@ This is a simple calculator implemented in JavaScript, HTML, and CSS. It provide
 ## Functions
  ### 1. showCharacter(char)
 Description: Appends the specified character to the calculator display.
-Usage Example:
-javascript
-Copy code
 showCharacter('5'); // Appends '5' to the display
-2. result()
+ ### 2. result()
 Description: Evaluates the mathematical expression in the calculator display and updates the display with the result.
-Usage Example:
-javascript
-Copy code
+
+
 result(); // Evaluates the expression and updates the display
-3. clearDisplay()
+### 3. clearDisplay()
 Description: Clears the content of the calculator display.
-Usage Example:
-javascript
-Copy code
+
 clearDisplay(); // Clears the display
-4. toggleMode()
+### 4. toggleMode()
 Description: Toggles the dark mode class on the body element for a visually appealing experience.
-Usage Example:
-javascript
-Copy code
-toggleMode(); // Toggles the dark mode
-Usage
-Clone the repository:
+toggleMode(); // Toggles the dark mode Usage
 
-bash
-Copy code
-git clone https://github.com/your-username/calculator-js.git
-Open index.html in a web browser to use the calculator.
-
-Contributing
+ ## Contributing
 If you would like to contribute to this project, feel free to fork the repository and submit a pull request.
